@@ -1,0 +1,9 @@
+Main Problems faced while coding for Quiz App :
+
+# Unable to place icons in placeholder.
+
+# Displaying username on the home screen.
+
+# Forget password system.
+
+Thats all......
